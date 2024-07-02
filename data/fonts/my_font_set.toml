@@ -14,4 +14,4 @@ mono_font = "verdana, sans-serif"
 
 # Font size
 font_size = "40"
-font_size_small = "14"
+font_size_small = "30"
