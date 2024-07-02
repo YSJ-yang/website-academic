@@ -13,5 +13,5 @@ nav_font = "verdana, sans-serif"
 mono_font = "verdana, sans-serif"
 
 # Font size
-font_size = "32"
-font_size_small = "24"
+font_size = "26"
+font_size_small = "18"
