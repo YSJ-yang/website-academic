@@ -26,8 +26,9 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Microeconomic theory
-  - Experimental economics
+  - Macroeconomics
+  - Innovation
+  - Industrial Organization
 
 # Education to show in About widget
 education:
@@ -35,14 +36,14 @@ education:
     - course: PhD in Economics
       institution: University of Chicago
       year: 2019 - present
-    - course: MRes in Economics
-      institution: Universitat Pompeu Fabra
-      year: 2019
-    - course: MSc in Economics
-      institution: Barcelona School of Economics (UPF)
-      year: 2018
-    - course: BSc in Finance
-      institution: University of Macedonia, Greece
+    # - course: MRes in Economics
+    #   institution: Universitat Pompeu Fabra
+    #   year: 2019
+    # - course: MSc in Economics
+    #   institution: Barcelona School of Economics (UPF)
+    #   year: 2018
+    - course: BSc in Economics, Mathematics, Statistics
+      institution: University of Toronto, Canada
       year: 2017
       
 
@@ -60,7 +61,7 @@ social:
  #     header: true
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_Orestis_Vravosinos.pdf
+    link: uploads/blank.pdf
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=4VhgUEQAAAAJ&hl
@@ -73,11 +74,13 @@ social:
  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'vravosinosorestis@gmail.com'
+email: 'xiaoyangli@uchicago.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-**About:** I am a PhD student in Economics at University of Chicago. My research interests lie in the areas of microeconomic theory and experimental economics.
+Welcome! I am a PhD Candidate in Economics at the University of Chicago. My research focuses on macroeconomics, innovation, and industrial organization. 
+
+I will be on the job market during the 2024–25 academic year.
 {style="text-align: justify;"}

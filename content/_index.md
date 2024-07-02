@@ -54,13 +54,13 @@ sections:
      # text: |-
      #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: orestis.vravosinos@nyu.edu
+      email: xiaoyangli@uchicago.edu
       # appointment_url: 'https://calendly.com'
       address:
-        street: New York University, 19 West 4th Street, 6th floor
-        city: New York
-        region: NY
-        postcode: '10003'
+        street: University of Chicago, 5757 S University Ave
+        city: Chicago
+        region: IL
+        postcode: '60637'
         country: United States
         country_code: US
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
