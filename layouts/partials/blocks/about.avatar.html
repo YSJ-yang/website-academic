@@ -25,9 +25,9 @@
 <div id="profile">
   <div class="row">
     <div class="col-sm-1"></div>
-    <div class="col-sm-4">
+    <div class="col-sm-4 justify-content-center">
 
-      <div class="justify-content-center d-block m-auto" style="margin: auto;">
+      <div>
 
         {{ if $avatar }}
         {{ $avatar_image :=  $avatar.Fill "3000x3000 Center" }}
@@ -36,7 +36,7 @@
         {{ end }}
       </div>
 
-      <div class="justify-content-center">
+      <div>
         <h2>
           {{- if $person.name_pronunciation -}}
             <ruby>
