@@ -33,51 +33,54 @@
       {{with $person.status.icon}}<span class="avatar-emoji">{{.|emojify}}</span>{{end}}
       {{ end }}
 
-      <h2>
-        {{- if $person.name_pronunciation -}}
-          <ruby>
-            <rb>{{ $person_page.Title }}</rb>
-            <rt>{{ $person.name_pronunciation }}</rt>
-          </ruby>
-        {{- else -}}
-          {{- $person_page.Title -}}
-        {{- end -}}
-      </h2>
+      <div class="justify-content-center">
+        <h2>
+          {{- if $person.name_pronunciation -}}
+            <ruby>
+              <rb>{{ $person_page.Title }}</rb>
+              <rt>{{ $person.name_pronunciation }}</rt>
+            </ruby>
+          {{- else -}}
+            {{- $person_page.Title -}}
+          {{- end -}}
+        </h2>
 
-      {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+        {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
 
-      {{ range $person.organizations }}
-      <h3>
-        {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
-        <span>{{ .name }}</span>
-        {{ if .url }}</a>{{ end }}
-      </h3>
-      {{ end }}
+        {{ range $person.organizations }}
+        <h3>
+          {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
+          <span>{{ .name }}</span>
+          {{ if .url }}</a>{{ end }}
+        </h3>
+        {{ end }}
 
-      <ul class="network-icon" aria-hidden="true">
-        {{ range $person.social }}
-        {{ $pack := or .icon_pack "fas" }}
-        {{ $pack_prefix := $pack }}
-        {{ if in (slice "fab" "fas" "far" "fal") $pack }}
-          {{ $pack_prefix = "fa" }}
-        {{ end }}
-        {{ $link := .link }}
-        {{ $scheme := (urls.Parse $link).Scheme }}
-        {{ $target := "" }}
-        {{ if not $scheme }}
-          {{ $link = .link | relLangURL }}
-          {{ if eq (path.Ext $link) ".pdf" }}{{ $target = "target=\"_blank\" rel=\"noopener\"" }}{{ end }}
-        {{ else if in (slice "http" "https") $scheme }}
-          {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
-        {{ end }}
-        <li>
-          <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}"
-            {{ with .label }} data-toggle="tooltip" data-placement="top" title="{{.}}"{{ end }}>
-            <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
-          </a>
-        </li>
-        {{ end }}
-      </ul>
+        <ul class="network-icon" aria-hidden="true">
+          {{ range $person.social }}
+          {{ $pack := or .icon_pack "fas" }}
+          {{ $pack_prefix := $pack }}
+          {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+            {{ $pack_prefix = "fa" }}
+          {{ end }}
+          {{ $link := .link }}
+          {{ $scheme := (urls.Parse $link).Scheme }}
+          {{ $target := "" }}
+          {{ if not $scheme }}
+            {{ $link = .link | relLangURL }}
+            {{ if eq (path.Ext $link) ".pdf" }}{{ $target = "target=\"_blank\" rel=\"noopener\"" }}{{ end }}
+          {{ else if in (slice "http" "https") $scheme }}
+            {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+          {{ end }}
+          <li>
+            <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}"
+              {{ with .label }} data-toggle="tooltip" data-placement="top" title="{{.}}"{{ end }}>
+              <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+        
+      </div>
 
     </div>
 
@@ -90,7 +93,9 @@
         </div>
       </div>
       {{ end }}
+
     </div>
+
   </div>
   <div class="col-sm-1"></div>
 </div>
