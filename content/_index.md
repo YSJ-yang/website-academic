@@ -13,7 +13,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text: Override your bio text from `authors/admin/_index.md`?
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     id: working_papers
     content:
