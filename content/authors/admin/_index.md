@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Orestis Vravosinos
+title: Xiaoyang Li
 
 # Full name (for SEO)
-first_name: Orestis
-last_name: Vravosinos
+first_name: Xiaoyang
+last_name: Li
 
 # Status emoji
 status:
@@ -18,8 +18,8 @@ role: PhD student in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: New York University
-    url: https://as.nyu.edu/econ.html
+  - name: University of Chicago
+    url: https://uchicago.edu/econ.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -33,7 +33,7 @@ interests:
 education:
   courses:
     - course: PhD in Economics
-      institution: New York University
+      institution: University of Chicago
       year: 2019 - present
     - course: MRes in Economics
       institution: Universitat Pompeu Fabra
