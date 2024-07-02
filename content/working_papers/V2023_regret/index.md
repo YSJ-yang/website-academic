@@ -1,5 +1,5 @@
 ---
-title: "Regret, blame, and division of responsibility in games"
+title: "The LifeCycle of Superstar Industries"
 authors:
 - admin
 date: "2023-10-20T19:37:01-04:00"
@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Regret in games has so far been analyzed as if in a single-agent context with the other players' actions treated as the state of the world. I instead propose the strategic regret approach, which accounts for the division of responsibility in games. It postulates that player i's regret (for not playing a best-response) is mitigated through blame put on player j for not playing (when available) a Pareto-improving (compared to j's actual action) best-response to player i's action. I show that strategic regret brings theoretical predictions closer to existing experimental results. Last, I provide direct experimental evidence that (i) blame mitigates regret and (ii) feelings of regret and blame elicited in certain games predict behavior in vastly different games, consistent with theoretical predictions.
+abstract: TBD
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -30,7 +30,7 @@ featured: false
 links:
 # - name: Custom Link
 #  url: http://example.org
-url_pdf: 'uploads/Vravosinos_Regret_blame_and_division_of_responsibility_in_games.pdf'
+url_pdf: ''
 url_code: 
 url_dataset: 
 url_poster: 
