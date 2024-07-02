@@ -62,15 +62,15 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/blank.pdf
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=4VhgUEQAAAAJ&hl
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.com/citations?user=4VhgUEQAAAAJ&hl
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/orestis-vravosinos
+    link: https://www.linkedin.com/in/xiaoyangli314/
  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

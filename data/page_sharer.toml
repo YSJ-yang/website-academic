@@ -19,7 +19,7 @@
 
 [[buttons]]
   id = "email"
-  url = "mailto:orestis.vravosinos@nyu.edu"
+  url = "mailto:xiaoyangli@uchicago.edu"
   title = "Email"
   icon_pack = "fas"
   icon = "envelope"
@@ -27,7 +27,7 @@
 
 [[buttons]]
   id = "linkedin"
-  url = "https://www.linkedin.com/in/orestis-vravosinos"
+  url = "https://www.linkedin.com/in/xiaoyangli314/"
   title = "LinkedIn"
   icon_pack = "fab"
   icon = "linkedin-in"
