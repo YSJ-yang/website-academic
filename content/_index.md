@@ -13,7 +13,6 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
     design:
-      css_class: sky
       columns: '2'
   - block: collection
     id: working_papers
