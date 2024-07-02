@@ -13,16 +13,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text: Override your bio text from `authors/admin/_index.md`?
     design:
-      css_class: sky
-      background:
-        image:
-          # Add your image background to `assets/media/`.
-          filename: 
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+      columns: '1'
   - block: collection
     id: working_papers
     content:
