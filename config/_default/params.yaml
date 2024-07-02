@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: 'New York University'
-    description: 'PhD student in economics at New York University'
+    org_name: 'University of Chicago'
+    description: 'PhD student in economics at University of Chicago'
     twitter:
   analytics:
     google_analytics: 'G-V06B2NG01Q'
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '&copy; 2022, Orestis Vravosinos &#183; Photo &copy; Francis: Courtesy of NYU Photo Bureau'
+    notice: '&copy; 2024, Xiaoyang Li &#183; '
     # license:
     #  enable: true
     #  allow_derivatives: false
