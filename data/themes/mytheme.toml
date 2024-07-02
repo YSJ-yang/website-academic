@@ -4,7 +4,6 @@ name = "mytheme"
 [light]
   # Primary
   primary = "#800000"
-  text = "#000000"
 
   # Menu
 menu_primary = "#800000"
