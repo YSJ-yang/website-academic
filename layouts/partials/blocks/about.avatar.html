@@ -24,6 +24,7 @@
 
 <div id="profile">
   <div class="row">
+    <div class="col-sm-1"></div>
     {{ if $avatar }}
     <div class="col-sm-4">
     {{ $avatar_image :=  $avatar.Fill "3000x3000 Center" }}
@@ -32,7 +33,7 @@
     </div>
     {{ end }}
 
-    <div class="col-sm-8">
+    <div class="col-sm-6">
 
       <h2>
         {{- if $person.name_pronunciation -}}
@@ -89,4 +90,5 @@
       {{ end }}
     </div>
   </div>
+  <div class="col-sm-1"></div>
 </div>
