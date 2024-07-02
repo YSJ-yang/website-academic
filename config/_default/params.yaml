@@ -6,8 +6,10 @@
 # Appearance
 
 appearance:
-  mode: light
-  color: blue
+  theme_day: mytheme
+  theme_night: mytheme
+  font: my_font_set
+  font_size: l
   
 # SEO
 
