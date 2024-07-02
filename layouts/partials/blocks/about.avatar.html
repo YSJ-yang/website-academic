@@ -22,7 +22,7 @@
 {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
 {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
 
-<div id="profile">bbb
+<div id="profile">
 
   {{ if $avatar }}
   <div class="avatar-wrapper" style="width: 300px; height: 220px;">
