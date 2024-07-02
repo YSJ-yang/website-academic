@@ -2,7 +2,7 @@
 title: "The LifeCycle of Superstar Industries"
 authors:
 - admin
-date: "2023-10-20T19:37:01-04:00"
+date: "2024-07-20T19:37:01-04:00"
 doi: "num/ssrn.num2"
 
 # Schedule page publish date (NOT publication's date).
