@@ -163,7 +163,7 @@
 .section-heading p {
   font-weight: 400;
   font-size: 1.1rem;
-  color: red;
+  color: rgba(0, 0, 0, 0.54); // Accessible contrast, matching footer text color.
 }
 
 .dark .section-heading p {
