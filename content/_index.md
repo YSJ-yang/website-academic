@@ -53,6 +53,7 @@ sections:
       autolink: true
       text: |-
         Lorem ipsum dolor sit amet, <a href="/uploads/bellman_xyl.pdf">consectetur</a> adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim. 
+        <ul><li>aaa</li>li>bbb</li></ul>
     design:
       columns: '2'
   - block: contact
