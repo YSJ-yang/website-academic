@@ -50,8 +50,9 @@ sections:
     id: teaching
     content:
       title: Teaching
+      autolink: true
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Lorem ipsum dolor sit amet, <a href="aaa.com">consectetur</a> adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim. 
     design:
       columns: '2'
   - block: contact
