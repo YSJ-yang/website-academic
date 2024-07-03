@@ -46,21 +46,14 @@ sections:
   #   design:
   #     columns: '2'
   #     view: citation
-  - block: collection
+  - block: markdown
     id: teaching
     content:
       title: Teaching
-      count: 0
-      # text: |-
-      #  {{% callout note %}}
-      #  Quickly discover relevant content by [filtering publications](./publication/).
-      #  {{% /callout %}}
-      filters:
-        folders:
-          - teaching
-        exclude_featured: true
+      text: |-
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
     design:
-      columns: '1'
+      columns: '2'
   - block: contact
     id: contact
     content:
