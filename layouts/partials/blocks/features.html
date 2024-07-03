@@ -8,7 +8,7 @@
 
 <div class="row featurette">
   {{ with $block.content.title }}
-  <div class="col-md-12 section-heading">
+  <div class="col-md-12 section-heading">ccc
     <h1>{{ . | markdownify | emojify }}</h1>
     {{ if $block.content.subtitle }}<p>{{ $block.content.subtitle | markdownify | emojify }}</p>{{ end }}
   </div>
@@ -39,7 +39,7 @@
       {{- end -}}
     </div>
     {{ end }}
-    <div class="section-subheading">{{ .name | markdownify | emojify }}aaa</div>
+    <div class="section-subheading">{{ .name | markdownify | emojify }}</div>
     {{ with .description }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
   </div>
   {{ end }}
