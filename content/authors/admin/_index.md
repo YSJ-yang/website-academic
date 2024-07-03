@@ -67,7 +67,7 @@ social:
   #   link: https://scholar.google.com/citations?user=4VhgUEQAAAAJ&hl
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'xiaoyangli@uchicago.edu'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/xiaoyangli314/
