@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 1
   - name: CV
-    url: uploads/CV_Orestis_Vravosinos.pdf
+    url: uploads/Xiaoyang_Li_CV.pdf
     weight: 2
   - name: "Working papers"
     url: '#working_papers'
