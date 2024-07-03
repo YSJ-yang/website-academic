@@ -53,7 +53,10 @@ sections:
       autolink: true
       text: |-
         Lorem ipsum dolor sit amet, <a href="/uploads/bellman_xyl.pdf">consectetur</a> adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim. 
-        <ul><li>aaa</li><li>bbb</li></ul>
+        <ul>
+          <li>aaa</li>
+          <li>bbb</li>
+        </ul>
     design:
       columns: '2'
   - block: contact
@@ -73,6 +76,7 @@ sections:
         postcode: '60637'
         country: United States
         country_code: US
+        link: 'https://www.google.com/maps/place/Saieh+Hall+For+Economics/@41.7898742,-87.5997978,17z/data=!3m2!4b1!5s0x880e291673e1b1eb:0x92cc235cda05dc67!4m6!3m5!1s0x880e29167109ab39:0xb987695b29fdfeb4!8m2!3d41.7898702!4d-87.5972229!16s%2Fg%2F11b6sd2v87?entry=ttu'
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #  - 'Monday 10:00 to 13:00'
