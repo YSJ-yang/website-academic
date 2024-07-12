@@ -52,10 +52,10 @@ sections:
       title: Teaching
       autolink: true
       text: |-
-        Lorem ipsum dolor sit amet, <a href="/uploads/bellman_xyl.pdf">consectetur</a> adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim. 
+        Website in development. 
         <ul>
-          <li>aaa</li>
-          <li>bbb</li>
+          <li>TBD</li>
+          <li>TBD</li>
         </ul>
     design:
       columns: '2'
