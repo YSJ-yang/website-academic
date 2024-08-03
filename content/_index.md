@@ -55,7 +55,6 @@ sections:
         <b>University of Chicago (TA)</b> 
         <ul>
           <li>Advanced Macroeconomic Analysis (Masters) for Harald Uhlig</li>
-          <ul>
           <li> Notes will be posted soon
           <li>Honors Macro Theory and Policy (Undergraduate) for Kotaro Yoshida</li>
         </ul>
