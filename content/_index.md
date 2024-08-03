@@ -57,9 +57,9 @@ sections:
           <li>Advanced Macroeconomic Analysis (Masters) for Harald Uhlig</li>
           <ul>
           <li> Notes will be posted soon
-          <ul>
           <li>Honors Macro Theory and Policy (Undergraduate) for Kotaro Yoshida</li>
         </ul>
+
         <b>Chicago Booth School of Business (TA)</b>
          <ul>
           <li>EMBA Competitive Strategy for Luis Garicano</li>
