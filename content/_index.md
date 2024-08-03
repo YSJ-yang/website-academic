@@ -52,14 +52,14 @@ sections:
       title: Teaching
       autolink: true
       text: |-
-        University of Chicago (TA) 
+        <b>University of Chicago (TA)</b> 
         <ul>
-          <li>Advanced Macroeconomic Analysis (Masters) for Harald Uhlig; 2021, 2022, 2023</li>
-          <li>Honors Macro Theory and Policy (Undergraduate) for Kotaro Yoshida; 2022, 2023</li>
+          <li>Advanced Macroeconomic Analysis (Masters) for Harald Uhlig</li>
+          <li>Honors Macro Theory and Policy (Undergraduate) for Kotaro Yoshida</li>
         </ul>
-        Chicago Booth School of Business (TA)
+        <b>Chicago Booth School of Business (TA)</b>
          <ul>
-          <li>EMBA Competitive Strategy for Luis Garicano; 2024</li>
+          <li>EMBA Competitive Strategy for Luis Garicano</li>
         </ul>       
     design:
       columns: '2'
