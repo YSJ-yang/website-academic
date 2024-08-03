@@ -1,0 +1,3 @@
+          <p>My CV is available <a href="https://xiaoyangli.com/uploads/Xiaoyang_Li_CV.pdf">here</a>.</p>
+        
+          <p>Reach me at <a href="xiaoyangli@uchicago.edu">xiaoyangli[at]uchicago.edu</a>.</p>

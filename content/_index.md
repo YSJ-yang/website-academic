@@ -52,11 +52,15 @@ sections:
       title: Teaching
       autolink: true
       text: |-
-        Website in development. 
+        University of Chicago (TA) 
         <ul>
-          <li>TBD</li>
-          <li>TBD</li>
+          <li>Advanced Macroeconomic Analysis (Masters) for Harald Uhlig; 2021, 2022, 2023</li>
+          <li>Honors Macro Theory and Policy (Undergraduate) for Kotaro Yoshida; 2022, 2023</li>
         </ul>
+        Chicago Booth School of Business (TA)
+         <ul>
+          <li>EMBA Competitive Strategy for Luis Garicano; 2024</li>
+        </ul>       
     design:
       columns: '2'
   - block: contact
