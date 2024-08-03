@@ -65,23 +65,23 @@ sections:
         </ul>       
     design:
       columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
+#  - block: contact
+#    id: contact
+#    content:
+#      title: Contact
+#      subtitle:
      # text: |-
      #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: xiaoyangli@uchicago.edu
+#      email: xiaoyangli@uchicago.edu
       # appointment_url: 'https://calendly.com'
-      address:
-        street: <a target="_blank" href="https://www.google.com/maps/place/Saieh+Hall+For+Economics/@41.7898742,-87.5997978,17z/data=!3m2!4b1!5s0x880e291673e1b1eb:0x92cc235cda05dc67!4m6!3m5!1s0x880e29167109ab39:0xb987695b29fdfeb4!8m2!3d41.7898702!4d-87.5972229!16s%2Fg%2F11b6sd2v87?entry=ttu">Saieh Hall, 5757 S University Ave</a>
-        city: Chicago
-        region: IL
-        postcode: '60637'
-        country: United States
-        country_code: US
+#      address:
+#        street: <a target="_blank" href="https://www.google.com/maps/place/Saieh+Hall+For+Economics/@41.7898742,-87.5997978,17z/data=!3m2!4b1!5s0x880e291673e1b1eb:0x92cc235cda05dc67!4m6!3m5!1s0x880e29167109ab39:0xb987695b29fdfeb4!8m2!3d41.7898702!4d-87.5972229!16s%2Fg%2F11b6sd2v87?entry=ttu">Saieh Hall, 5757 S University Ave</a>
+#        city: Chicago
+#        region: IL
+#        postcode: '60637'
+#        country: United States
+#        country_code: US
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #  - 'Monday 10:00 to 13:00'
@@ -100,7 +100,7 @@ sections:
       #    name: Zoom Me
       #    link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
+#      autolink: true
       # Email form provider
       # form:
       #  provider: netlify
@@ -109,6 +109,6 @@ sections:
       #  netlify:
           # Enable CAPTCHA challenge to reduce spam?
       #    captcha: false
-    design:
-      columns: '2'
+#    design:
+#      columns: '2'
 ---
