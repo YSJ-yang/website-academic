@@ -58,8 +58,6 @@ sections:
           <ul>
           <li> Notes will be posted soon
           <ul>
-        <ul>
-        <ul>
           <li>Honors Macro Theory and Policy (Undergraduate) for Kotaro Yoshida</li>
         </ul>
         <b>Chicago Booth School of Business (TA)</b>
