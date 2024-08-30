@@ -56,12 +56,16 @@ sections:
         <ul>
           <li>Advanced Macroeconomic Analysis (Masters) for Harald Uhlig          
             <ul> 
-            <li> <a href="https://xiaoyangli.com/uploads/bellman_xyl.pdf">Introduction to Dynamic Programming</a> </li>
+            <li> <a href="https://xiaoyangli.com/uploads/var-cholesky-BQ_xyl.pdf">Cholesky Decomposition Notes</a> </li>
             <li> notes</li>
             </ul>
           </li>
           <li>Honors Macro Theory and Policy (Undergraduate) for Kotaro Yoshida</li>
-        </ul>
+          <li>Notes for Both Courses
+          </ul> 
+          <li> <a href="https://xiaoyangli.com/uploads/bellman_xyl.pdf">Introduction to Dynamic Programming</a> </li>
+          </ul>
+          </li>
         <b>Chicago Booth School of Business (TA)</b>
          <ul>
           <li>EMBA Competitive Strategy for Luis Garicano</li>
