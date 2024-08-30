@@ -62,7 +62,7 @@ sections:
           </li>
           <li>Honors Macro Theory and Policy (Undergraduate) for Kotaro Yoshida</li>
           <li>Notes for Both Courses
-          </ul> 
+          <ul> 
           <li> <a href="https://xiaoyangli.com/uploads/bellman_xyl.pdf">Introduction to Dynamic Programming</a> </li>
           </ul>
           </li>
