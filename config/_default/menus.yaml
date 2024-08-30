@@ -19,3 +19,6 @@ main:
 #  - name: Contact
 #    url: '#contact'
 #    weight: 5
+  - name: Other
+    url: '/other.html'
+    weight: 5
