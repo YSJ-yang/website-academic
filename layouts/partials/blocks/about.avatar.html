@@ -25,12 +25,12 @@
 <div id="profile">
   <div class="row">
     <div class="col-sm-1"></div>
-    <div class="col-sm-3 justify-content-center" style="width: 512px;">
-
+    <div class="col-sm-3 justify-content-center">
+      <!-- style="width: 300px;" -->
       <div>
         {{ if $avatar }}
-        {{ $avatar_image :=  $avatar.Fill "512x512 Center" }}
-        <img class="{{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}" style="width: 512px; height: 512px;">
+        {{ $avatar_image :=  $avatar.Fill "300x300 Center" }}
+        <img class="{{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="/authors/admin/avatar_300.jpg" alt="{{$person_page.Title}}" style="width: 300px; height: 300px;">
         {{with $person.status.icon}}<span class="avatar-emoji">{{.|emojify}}</span>{{end}}
         {{ end }}
       </div>
@@ -92,7 +92,7 @@
       <div class="article-style pt-2 d-flex justify-content-center" style="height: 300px;">
         <div class="bio-text" style="font-size: 1rem;">
           <!-- {{ . }} -->
-        <p>Welcome! I am a PhD Candidate in Economics at the <a href="https://economics.uchicago.edu/">University of Chicago</a>. My research focuses on <b>macroeconomics</b>, <b>innovation</b>, and <b>industrial organization</b>.  </p>
+        <p>Welcome! I am a PhD Candidate in Economics at the <a href="https://economics.uchicago.edu/">University of Chicago</a>. My research focuses on <b>macroeconomics</b>, <b>innovation</b>, and <b>firm dynamics</b>.  </p>
 
           <p>I will be on the <b>job market</b> during the 2024–25 academic year.</p>
         
