@@ -25,12 +25,12 @@
 <div id="profile">
   <div class="row">
     <div class="col-sm-1"></div>
-    <div class="col-sm-3 justify-content-center" style="width: 300px;">
+    <div class="col-sm-3 justify-content-center" style="width: 512px;">
 
       <div>
         {{ if $avatar }}
-        {{ $avatar_image :=  $avatar.Fill "300x300 Center" }}
-        <img class="{{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}" style="width: 300px; height: 300px;">
+        {{ $avatar_image :=  $avatar.Fill "512x512 Center" }}
+        <img class="{{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}" style="width: 512px; height: 512px;">
         {{with $person.status.icon}}<span class="avatar-emoji">{{.|emojify}}</span>{{end}}
         {{ end }}
       </div>
