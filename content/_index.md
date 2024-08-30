@@ -56,7 +56,7 @@ sections:
         <ul>
           <li>Advanced Macroeconomic Analysis (Masters) for Harald Uhlig          
             <ul> 
-            <li> <a href="https://xiaoyangli.com/uploads/bellman_xyl.pdf">Introduction to Bellman Equations</a> </li>
+            <li> <a href="https://xiaoyangli.com/uploads/bellman_xyl.pdf">Introduction to Dynamic Programming</a> </li>
             <li> notes</li>
             </ul>
           </li>
