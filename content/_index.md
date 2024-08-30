@@ -54,11 +54,12 @@ sections:
       text: |-
         <b>University of Chicago (TA)</b> 
         <ul>
-          <li>Advanced Macroeconomic Analysis (Masters) for Harald Uhlig</li>          
+          <li>Advanced Macroeconomic Analysis (Masters) for Harald Uhlig          
             <ul> 
-            <li> notes</li>
+            <li> <a href="https://xiaoyangli.com/uploads/bellman_xyl.pdf">Introduction to Bellman Equations</a> </li>
             <li> notes</li>
             </ul>
+          </li>
           <li>Honors Macro Theory and Policy (Undergraduate) for Kotaro Yoshida</li>
         </ul>
         <b>Chicago Booth School of Business (TA)</b>
