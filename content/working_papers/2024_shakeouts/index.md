@@ -3,7 +3,8 @@ title: "Industry Shakeouts after an Innovation Breakthrough"
 authors:
 - admin
 date: "2024-07-20T19:37:01-04:00"
-doi: "num/ssrn.num2"
+# doi: "num/ssrn.num2"
+#   note={Available at SSRN: http://dx.doi.org/num/ssrn.num2},
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
