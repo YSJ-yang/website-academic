@@ -20,5 +20,5 @@ main:
 #    url: '#contact'
 #    weight: 5
   - name: Other
-    url: '/other.html'
+    url: 'other'
     weight: 5
