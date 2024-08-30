@@ -19,6 +19,6 @@ main:
 #  - name: Contact
 #    url: '#contact'
 #    weight: 5
-  - name: Other
-    url: 'other'
-    weight: 5
+  # - name: Other
+  #   url: 'other'
+  #   weight: 5
