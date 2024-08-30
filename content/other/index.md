@@ -22,6 +22,6 @@ slides:
 
 ## Music
 
-- I play violin and have a <a href="https://www.youtube.com/@Witchofagnesi88">youtube channel</a> 
+- I play violin and have a <a href="https://www.youtube.com/@Witchofagnesi88">youtube channel</a>.
 
 ---
