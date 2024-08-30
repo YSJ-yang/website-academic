@@ -57,14 +57,16 @@ sections:
           <li>Advanced Macroeconomic Analysis (Masters) for Harald Uhlig          
             <ul> 
               <li> <a href="https://xiaoyangli.com/uploads/var-cholesky-BQ_xyl.pdf">Cholesky Decomposition Notes</a> </li>
-              <li> notes</li>
             </ul>
           </li>
           <li>Honors Macro Theory and Policy (Undergraduate) for Kotaro Yoshida</li>
           <li>Notes for Both Courses
             <ul> 
               <li> <a href="https://xiaoyangli.com/uploads/bellman_xyl.pdf">Introduction to Dynamic Programming</a> </li>
-            </ul>
+              <li> <a href="https://xiaoyangli.com/uploads/loglinear_xyl_notes.pdf">Log Linearization</a> </li>
+              <li> <a href="https://xiaoyangli.com/uploads/rbc_xyl.pdf">The Real Business Cycle Model</a> </li>
+              <li> <a href="https://xiaoyangli.com/uploads/macrophil_xyl.pdf">The Philosophy of Macroeconomics</a> </li>
+            </ul> 
           </li>
         </ul>
         <b>Chicago Booth School of Business (TA)</b>
