@@ -54,11 +54,13 @@ sections:
       text: |-
         <b>University of Chicago (TA)</b> 
         <ul>
-          <li>Advanced Macroeconomic Analysis (Masters) for Harald Uhlig</li>
-          <li> Notes will be posted soon
+          <li>Advanced Macroeconomic Analysis (Masters) for Harald Uhlig</li>          
+            <ul> 
+            <li> notes</li>
+            <li> notes</li>
+            </ul>
           <li>Honors Macro Theory and Policy (Undergraduate) for Kotaro Yoshida</li>
         </ul>
-
         <b>Chicago Booth School of Business (TA)</b>
          <ul>
           <li>EMBA Competitive Strategy for Luis Garicano</li>
