@@ -1,6 +1,6 @@
 ---
-title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
+title: Other Interests
+summary: My other interests
 authors: []
 tags: []
 categories: []
@@ -13,18 +13,10 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Wowchemy
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/)
+## Poetry
 
----
-
-## Features
-
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+- I have a <a href="https://sweetthawt.blogspot.com/">poetry blog</a>
 
 ---
 
