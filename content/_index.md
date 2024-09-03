@@ -65,7 +65,7 @@ sections:
               <li> <a href="https://xiaoyangli.com/uploads/bellman_xyl.pdf">Introduction to Dynamic Programming</a> </li>
               <li> <a href="https://xiaoyangli.com/uploads/loglinear_xyl_notes.pdf">Log Linearization</a> </li>
               <li> <a href="https://xiaoyangli.com/uploads/rbc_xyl.pdf">The Real Business Cycle Model</a> </li>
-              <li> <a href="https://xiaoyangli.com/uploads/macrophil_xyl_tame.pdf">The Philosophy of Macroeconomics</a> </li>
+              <li> <a href="https://xiaoyangli.com/uploads/macrophil_xyl_website.pdf">The Philosophy of Macroeconomics</a> </li>
             </ul> 
           </li>
         </ul>
