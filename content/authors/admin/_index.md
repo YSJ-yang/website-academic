@@ -80,7 +80,7 @@ email: 'xiaoyangli@uchicago.edu'
 highlight_name: false
 ---
 
-Welcome! I am a PhD Candidate in Economics at the University of Chicago. My research focuses on macroeconomics, innovation, and industrial organization. 
+Welcome! I am a PhD Candidate in Economics at the University of Chicago. My research focuses on macroeconomics/growth, innovation, and industrial organization. 
 
 I will be on the job market during the 2024–25 academic year.
 {style="text-align: justify;"}
