@@ -30,8 +30,8 @@
       <!-- style="width: 300px;" -->
       <div>
         {{ if $avatar }}
-        {{ $avatar_image :=  $avatar.Fill "300x325 Center" }}
-        <img class="{{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="/authors/admin/avatar.png" alt="{{$person_page.Title}}" style="width: 300px; height: 325px;">
+        {{ $avatar_image :=  $avatar.Fill "300x310 Center" }}
+        <img class="{{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="/authors/admin/avatar.png" alt="{{$person_page.Title}}" style="width: 300px; height: 310px;">
         {{with $person.status.icon}}<span class="avatar-emoji">{{.|emojify}}</span>{{end}}
         {{ end }}
       </div>
@@ -90,7 +90,7 @@
     <div class="col-sm-7">
 
       <!-- {{ with ($block.content.text | emojify | markdownify) | default $person_page.Content }} -->
-      <div class="article-style pt-2 d-flex justify-content-center" style="height: 325px;">
+      <div class="article-style pt-2 d-flex justify-content-center" style="height: 310px;">
         <div class="bio-text" style="font-size: 1rem;">
           <!-- {{ . }} -->
         <p>Welcome! I am a PhD Candidate in Economics at the <a href="https://economics.uchicago.edu/">University of Chicago</a>. My research focuses on <b>macroeconomics/growth</b>, <b>innovation</b>, and <b>industrial organization</b>.  </p>
