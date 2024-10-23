@@ -27,11 +27,11 @@
   <div class="row">
     <div class="col-sm-1"></div>
     <div class="col-sm-3 justify-content-center">
-      <!-- style="width: 470px;" -->
+      <!-- style="width: 300px;" -->
       <div>
         {{ if $avatar }}
-        {{ $avatar_image :=  $avatar.Fill "470x470 Center" }}
-        <img class="{{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="/authors/admin/avatar.png" alt="{{$person_page.Title}}" style="width: 470px; height: 470px;">
+        {{ $avatar_image :=  $avatar.Fill "300x300 Center" }}
+        <img class="{{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="/authors/admin/avatar.png" alt="{{$person_page.Title}}" style="width: 300px; height: 300px;">
         {{with $person.status.icon}}<span class="avatar-emoji">{{.|emojify}}</span>{{end}}
         {{ end }}
       </div>
@@ -90,7 +90,7 @@
     <div class="col-sm-7">
 
       <!-- {{ with ($block.content.text | emojify | markdownify) | default $person_page.Content }} -->
-      <div class="article-style pt-2 d-flex justify-content-center" style="height: 470px;">
+      <div class="article-style pt-2 d-flex justify-content-center" style="height: 300px;">
         <div class="bio-text" style="font-size: 1rem;">
           <!-- {{ . }} -->
         <p>Welcome! I am a PhD Candidate in Economics at the <a href="https://economics.uchicago.edu/">University of Chicago</a>. My research focuses on <b>macroeconomics/growth</b>, <b>innovation</b>, and <b>industrial organization</b>.  </p>
