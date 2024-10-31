@@ -33,7 +33,7 @@ sections:
   - block: markdown
     id: working
     content:
-      title: Working
+      title: Working Papers
       autolink: true
       text: |-
         Xiaoyang Li (2024). <a href="https://xiaoyangli.com/uploads/Xiaoyang_Li_shakeouts.pdf">Industry Shakeouts after an Innovation Breakthrough</a>. <a href=# class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename=/working_papers/shakeouts/cite.bib>Cite</a>
