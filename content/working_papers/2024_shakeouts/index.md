@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Conventional wisdom suggests that after a technological breakthrough, the number of active firms first surges, and then sharply declines, in what is known as a "shakeout". This paper challenges that notion with new empirical evidence from across the U.S. economy, revealing that shakeouts are the exception, not the rule. I develop a statistical strategy to detect breakthroughs by isolating sustained anomalies in net firm entry rates, offering a robust alternative to narrative-driven approaches that can be applied to all industries. The results of this strategy, which reliably align with well-documented breakthroughs and remain consistent across various validation tests, uncover a novel trend: the number of entry-driven breakthroughs has been declining over time. The variability and frequent absence of shakeouts across breakthrough industries are consistent with breakthroughs primarily occurring in industries with low returns to scale and with modest learning curves, shifting the narrative on the nature of innovation over the past forty years in the U.S.
+abstract:
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
