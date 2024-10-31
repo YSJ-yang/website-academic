@@ -14,22 +14,31 @@ sections:
       text:
     design:
       columns: '2'
-  - block: collection
-    id: working_papers
+  # - block: collection
+  #   id: working_papers
+  #   content:
+  #     title: Working papers
+  #     count: 0
+  #     # text: |-
+  #     #  {{% callout note %}}
+  #     #  Quickly discover relevant content by [filtering publications](./publication/).
+  #     #  {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - working_papers
+  #       exclude_featured: true
+  #   design:
+  #     columns: '2'
+  #     view: citation
+  - block: markdown
+    id: working
     content:
-      title: Working papers
-      count: 0
-      # text: |-
-      #  {{% callout note %}}
-      #  Quickly discover relevant content by [filtering publications](./publication/).
-      #  {{% /callout %}}
-      filters:
-        folders:
-          - working_papers
-        exclude_featured: true
+      title: Working
+      autolink: true
+      text: |-
+        Xiaoyang Li (2024). <a href="https://xiaoyangli.com/uploads/Xiaoyang_Li_shakeouts_10.31.2024.pdf">Industry Shakeouts after an Innovation Breakthrough</a>. 
     design:
       columns: '2'
-      view: citation
   # - block: collection
   #   id: publications
   #   content:
