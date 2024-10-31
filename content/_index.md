@@ -82,7 +82,7 @@ sections:
         </ul>
         <b>Chicago Booth School of Business (TA)</b>
          <ul>
-          <li>EMBA Competitive Strategy for Luis Garicano</li>
+          <li>Competitive Strategy (Executive MBA) for Luis Garicano</li>
         </ul>       
     design:
       columns: '2'
