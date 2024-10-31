@@ -31,7 +31,7 @@ featured: false
 links:
 # - name: Custom Link
 #  url: http://example.org
-url_pdf: ''
+url_pdf: 'uploads/Xiaoyang_Li_shakeouts_10.31.2024.pdf'
 url_code: 
 url_dataset: 
 url_poster: 
