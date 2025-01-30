@@ -36,7 +36,7 @@ sections:
       title: Working Papers
       autolink: true
       text: |-
-        Xiaoyang Li (2024). <a href="https://xiaoyangli.com/uploads/li_shakeouts_innovation.pdf">Industry Shakeouts after an Innovation Breakthrough</a>. <a href=# class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename=/working_papers/shakeouts/cite.bib>Cite</a>
+        Xiaoyang Li (2024). <a href="https://xiaoyangli.com/uploads/li_shakeouts_innovation.pdf">Industry Shakeouts after an Innovation Breakthrough</a>. <a href="https://xiaoyangli.com/uploads/li_shakeouts_innovation_slides.pdf">Slides</a>. <a href=# class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename=/working_papers/shakeouts/cite.bib>Cite</a>
         <p>
         Xiaoyang Li, Shijian Yang, and Wei Lin (2024). <a href="https://xiaoyangli.com/uploads/li-yang-lin_land.pdf">Much ado about Property Rights: China’s Agricultural Wedges</a>. <a href=# class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename=/working_papers/chinalandproject/cite.bib>Cite</a>
     design:
