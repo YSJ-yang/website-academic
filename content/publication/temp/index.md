@@ -1,14 +1,13 @@
 ---
-title: 'The effects of markets, uncertainty and search intensity on bitcoin returns'
+title: 'tbd'
 authors:
-- Theodore Panagiotidis
-- Thanasis Stengos
+- Xiaoyang Li
 - admin
-date: '2019-05-01T19:37:01-04:00'
-doi: '10.1016/j.irfa.2018.11.002'
+date: '2024-05-01T19:37:01-04:00'
+doi: '11.111/x.xxx.2025.111'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,9 +16,9 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Review of Financial Analysis*, 63: 220-242"
+publication: "*Journal of Economics*, , "
 #publication_short = "In *ICA*"
-abstract: We review the literature and examine the effects of shocks on bitcoin returns. We assess the effects of factors such as stock market returns, exchange rates, gold and oil returns, FED's and ECB's rates and internet trends on bitcoin returns. Alternative VAR and FAVAR models are employed and generalized as well as local impulse response functions are produced. Our results reveal (i) a significant interaction between bitcoin and traditional stock markets, (ii) a weaker interaction with FX markets and the macroeconomy and (iii) an anemic importance of popularity measures. Lastly, we reveal the increased impact of Asian markets on bitcoin compared to other geographically-defined markets, which however appears to have waned in the last two years after the Chinese regulatory interventions and the sudden contraction of CNY's share in bitcoin trading volume.
+abstract: 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -30,7 +29,7 @@ featured: false
 links:
 # - name: Custom Link
 #  url: http://example.org
-url_pdf: 'http://rcea.org/RePEc/pdf/wp18-39.pdf'
+url_pdf: ''
 url_code: 
 url_dataset: 
 url_poster: 
@@ -61,3 +60,4 @@ url_video:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+
