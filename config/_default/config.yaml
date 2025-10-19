@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Xiaoyang Li # Website name
-baseURL: 'https://xiaoyangli.com/' # Website URL
+title: Shijian Yang # Website name
+baseURL: 'https://shijianyang.com/' # Website URL
 
 ############################
 ## LANGUAGE
