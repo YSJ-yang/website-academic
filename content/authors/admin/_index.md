@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Xiaoyang Li
+title: Shijian Yang
 
 # Full name (for SEO)
-first_name: Xiaoyang
-last_name: Li
+first_name: Shijian 
+last_name: Yang
 
 # Status emoji
 status:
@@ -26,25 +26,25 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Macroeconomics
-  - Innovation
-  - Industrial Organization
+  - Urban Economics
+  - Spatial Economics
+  - International Trade
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Economics
       institution: University of Chicago
-      year: 2019 - present
+      year: 2020 - 2026
     # - course: MRes in Economics
     #   institution: Universitat Pompeu Fabra
     #   year: 2019
     # - course: MSc in Economics
     #   institution: Barcelona School of Economics (UPF)
     #   year: 2018
-    - course: BSc in Economics, Mathematics, Statistics
-      institution: University of Toronto, Canada
-      year: 2017
+    - course: BA in Economics (1st Class Honours)
+      institution: University of Cambridge
+      year: 2020
       
 
 # Social/Academic Networking
@@ -67,20 +67,20 @@ social:
   #   link: https://scholar.google.com/citations?user=4VhgUEQAAAAJ&hl
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:xiaoyangli@uchicago.edu'
+    link: 'mailto:shijianyang@uchicago.edu'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/xiaoyangli314/
+    link: https://www.linkedin.com/in/shijian-yang-9201ab115/
  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'xiaoyangli@uchicago.edu'
+email: 'shijianyangi@uchicago.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Welcome! I am a PhD Candidate in Economics at the University of Chicago. My research focuses on macroeconomics/growth, innovation, and industrial organization. 
+Welcome! I am a PhD Candidate in Economics at the University of Chicago. My research focuses on urban and spatial economics. 
 
-I will be on the job market during the 2024–25 academic year.
+I will be on the job market during the 2025–26 academic year.
 {style="text-align: justify;"}
