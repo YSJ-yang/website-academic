@@ -65,23 +65,12 @@ sections:
       text: |-
         <b>University of Chicago (TA)</b> 
         <ul>
-          <li>Advanced Macroeconomic Analysis (Masters) for Harald Uhlig          
-            <ul> 
-              <li> <a href="https://xiaoyangli.com/uploads/var-cholesky-BQ_xyl.pdf">Cholesky Decomposition Notes</a> </li>
-            </ul>
-          </li>
-          <li>Honors Macro Theory and Policy (Undergraduate) for Kotaro Yoshida</li>
-          <li>Notes for Both Courses
-            <ul> 
-              <li> <a href="https://xiaoyangli.com/uploads/bellman_xyl.pdf">Introduction to Dynamic Programming</a> </li>
-              <li> <a href="https://xiaoyangli.com/uploads/loglinear_xyl_notes.pdf">Log Linearization</a> </li>
-              <li> <a href="https://xiaoyangli.com/uploads/rbc_xyl.pdf">The Real Business Cycle Model</a> </li>
-              <li> <a href="https://xiaoyangli.com/uploads/macrophil_xyl.pdf">The Philosophy of Macroeconomics</a> </li>
-            </ul> 
-          </li>
-        </ul>
-        <b>Chicago Booth School of Business (TA)</b>
+          <li> Microeconomics II (PhD) for Lars Stole</li>
+          <li> Microeconomics III (PhD) for Phil Reny</li>
+          <li> Macroeconomics II (Undergraduate) for Sergio Salas </li>
+        <b> Booth School of Business , University of Chicago (TA)</b>
          <ul>
+          <li>Microeconomics (Executive MBA) for Lars Stole</li>
           <li>Competitive Strategy (Executive MBA) for Luis Garicano</li>
         </ul>       
     design:
@@ -94,7 +83,7 @@ sections:
      # text: |-
      #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-#      email: xiaoyangli@uchicago.edu
+#      email: shijianyang@uchicago.edu
       # appointment_url: 'https://calendly.com'
 #      address:
 #        street: <a target="_blank" href="https://www.google.com/maps/place/Saieh+Hall+For+Economics/@41.7898742,-87.5997978,17z/data=!3m2!4b1!5s0x880e291673e1b1eb:0x92cc235cda05dc67!4m6!3m5!1s0x880e29167109ab39:0xb987695b29fdfeb4!8m2!3d41.7898702!4d-87.5972229!16s%2Fg%2F11b6sd2v87?entry=ttu">Saieh Hall, 5757 S University Ave</a>
