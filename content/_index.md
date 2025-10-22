@@ -1,10 +1,5 @@
 ---
-# Leave the homepage title emp      title: Working Papers
-      autolink: true
-      text: |-
-        <b>Job Market Paper:</b> <a href="https://drive.google.com/file/d/1nfksQSGr8nsSkv_uPdO9X1w-Ee1DXpro/view?usp=sharing">Optimal Land-use Regulations</a>.    
-        <p>
-        <a href="https://shijianyang.com/uploads/li-yang-lin_land.pdf">Much ado about Property Rights: China's Agricultural Wedges </a> (with Xiaoyang Li and Wei Lin)use the site title
+# Leave the homepage title empty to use the site title
 title:
 date: 2022-10-24
 type: landing
@@ -41,7 +36,7 @@ sections:
       title: Working Papers
       autolink: true
       text: |-
-        Shijian Yang (2025). <a href="https://drive.google.com/file/d/1nfksQSGr8nsSkv_uPdO9X1w-Ee1DXpro/view?usp=sharing">Optimal Land-use Regulations</a>.    
+        <b>Job Market Paper:</b> <a href="https://drive.google.com/file/d/1nfksQSGr8nsSkv_uPdO9X1w-Ee1DXpro/view?usp=sharing">Optimal Land-use Regulations</a>.    
         <p>
         <a href="https://shijianyang.com/uploads/li-yang-lin_land.pdf">Much ado about Property Rights: China’s Agricultural Wedges </a> (with Xiaoyang Li and Wei Lin) 
     design:
