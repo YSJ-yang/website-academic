@@ -28,10 +28,10 @@
     <div id="profile">
 
       {{ if site.Params.features.avatar.gravatar }}
-      <img class="avatar" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=270')" alt="{{$person_page.Title}}" style="height: 300px; width: auto; max-width: 100%;">
+      <img class="avatar" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=270')" alt="{{$person_page.Title}}" style="height: 300px; width: auto; max-width: 100%; object-fit: contain;">
       {{ else if $avatar }}
       {{ $avatar_image := $avatar.Resize "x300" }}
-      <img class="avatar" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}" style="height: 300px; width: auto; max-width: 100%;">
+      <img class="avatar" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}" style="height: 300px; width: auto; max-width: 100%; object-fit: contain;">
       {{ end }}
 
       <div class="portrait-title">

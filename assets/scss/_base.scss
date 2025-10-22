@@ -166,6 +166,24 @@
   color: rgba(0, 0, 0, 0.54); // Accessible contrast, matching footer text color.
 }
 
+/* Avatar styling to preserve aspect ratio */
+#profile img {
+  height: 300px !important;
+  width: auto !important;
+  max-width: 100% !important;
+  object-fit: contain !important;
+  border-radius: 0 !important; /* Remove any border radius that might force square */
+}
+
+/* Ensure .avatar class also preserves aspect ratio */
+.avatar {
+  height: 300px !important;
+  width: auto !important;
+  max-width: 100% !important;
+  object-fit: contain !important;
+  border-radius: 0 !important; /* Remove any border radius that might force square */
+}
+
 .dark .section-heading p {
   color: rgb(158, 158, 158);
 }

@@ -31,7 +31,7 @@
       <div>
   {{ if $avatar }}
   {{ $avatar_image := $avatar.Resize "x300" }}
-  <img src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}" style="height: 300px; width: auto; max-width: 100%;">
+  <img src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}" style="height: 300px; width: auto; max-width: 100%; object-fit: contain;">
   {{with $person.status.icon}}<span class="avatar-emoji">{{.|emojify}}</span>{{end}}
   {{ end }}
       </div>
