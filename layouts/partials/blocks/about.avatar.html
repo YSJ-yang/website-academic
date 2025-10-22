@@ -29,11 +29,11 @@
     <div class="col-sm-3 justify-content-center">
       <!-- style="width: 300px;" -->
       <div>
-        {{ if $avatar }}
-        {{ $avatar_image :=  $avatar.Fill "300x300 Center" }}
-        <img class="{{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="/authors/admin/avatar.png" alt="{{$person_page.Title}}" style="width: 300px; height: 300px;">
-        {{with $person.status.icon}}<span class="avatar-emoji">{{.|emojify}}</span>{{end}}
-        {{ end }}
+  {{ if $avatar }}
+  {{ $avatar_image := $avatar.Resize "x300" }}
+  <img class="{{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}" style="height: 300px; width: auto;">
+  {{with $person.status.icon}}<span class="avatar-emoji">{{.|emojify}}</span>{{end}}
+  {{ end }}
       </div>
 
       <div>

@@ -63,16 +63,17 @@ sections:
       title: Teaching
       autolink: true
       text: |-
+        <b> Booth School of Business , University of Chicago (TA)</b>
+        <ul>
+          <li>Microeconomics (Executive MBA) for Lars Stole</li>
+          <li>Competitive Strategy (Executive MBA) for Luis Garicano</li>
+        </ul>
         <b>University of Chicago (TA)</b> 
         <ul>
           <li> Microeconomics II (PhD) for Lars Stole</li>
           <li> Microeconomics III (PhD) for Phil Reny</li>
           <li> Macroeconomics II (Undergraduate) for Sergio Salas </li>
-        <b> Booth School of Business , University of Chicago (TA)</b>
-         <ul>
-          <li>Microeconomics (Executive MBA) for Lars Stole</li>
-          <li>Competitive Strategy (Executive MBA) for Luis Garicano</li>
-        </ul>       
+        <ul>   
     design:
       columns: '2'
 #  - block: contact
