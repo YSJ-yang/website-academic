@@ -1,5 +1,10 @@
 ---
-title: "Much ado about Property Rights: China’s Agricultural Wedges"
+title: "Much ado about Property Rights: China's Agricultural Wedges"
+authors:
+- Xiaoyang Li
+- admin
+- Wei Lin
+date: "2024-07-20T19:37:01-04:00"tle: "Much ado about Property Rights: China’s Agricultural Wedges"
 authors:
 - admin
 - Wei Lin

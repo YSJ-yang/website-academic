@@ -36,9 +36,9 @@ sections:
       title: Working Papers
       autolink: true
       text: |-
-        Xiaoyang Li (2024). <a href="https://xiaoyangli.com/uploads/li_shakeouts_innovation.pdf">Industry Shakeouts after an Innovation Breakthrough</a>.   [<a href="https://xiaoyangli.com/uploads/li_shakeouts_innovation_slides.pdf">Slides</a>] <a href=# class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename=/working_papers/shakeouts/cite.bib>Cite</a>
+        Shijian Yang (2025). <a href="https://drive.google.com/file/d/1nfksQSGr8nsSkv_uPdO9X1w-Ee1DXpro/view?usp=sharing">Optimal Land-use Regulations</a>.    
         <p>
-        Xiaoyang Li, Shijian Yang, and Wei Lin (2024). <a href="https://xiaoyangli.com/uploads/li-yang-lin_land.pdf">Much ado about Property Rights: China’s Agricultural Wedges</a>. <a href=# class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename=/working_papers/chinalandproject/cite.bib>Cite</a>
+        Xiaoyang Li, Shijian Yang, and Wei Lin (2024). <a href="https://shijianyang.com/uploads/li-yang-lin_land.pdf">Much ado about Property Rights: China’s Agricultural Wedges </a>. 
     design:
       columns: '2'
   # - block: collection

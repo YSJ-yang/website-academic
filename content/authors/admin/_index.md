@@ -61,7 +61,7 @@ social:
  #     header: true
   - icon: cv
     icon_pack: ai
-    link: uploads/Xiaoyang_Li_CV.pdf
+    link: https://drive.google.com/file/d/1FS7AaJxk4IEWuAWeUusJ4rEUWi68_HxN/view?usp=sharing
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.com/citations?user=4VhgUEQAAAAJ&hl

@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 1
   - name: CV
-    url: uploads/Xiaoyang_Li_CV.pdf
+    url: https://drive.google.com/file/d/1FS7AaJxk4IEWuAWeUusJ4rEUWi68_HxN/view?usp=sharing
     weight: 2
   - name: "Working papers"
     url: '#working_papers'
